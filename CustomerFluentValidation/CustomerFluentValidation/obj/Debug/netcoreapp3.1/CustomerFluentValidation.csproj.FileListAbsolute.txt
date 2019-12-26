@@ -1,0 +1,13 @@
+G:\1.FluentValidation\CustomerFluentValidation\CustomerFluentValidation\bin\Debug\netcoreapp3.1\CustomerFluentValidation.exe
+G:\1.FluentValidation\CustomerFluentValidation\CustomerFluentValidation\obj\Debug\netcoreapp3.1\CustomerFluentValidation.AssemblyInfoInputs.cache
+G:\1.FluentValidation\CustomerFluentValidation\CustomerFluentValidation\obj\Debug\netcoreapp3.1\CustomerFluentValidation.AssemblyInfo.cs
+G:\1.FluentValidation\CustomerFluentValidation\CustomerFluentValidation\bin\Debug\netcoreapp3.1\CustomerFluentValidation.deps.json
+G:\1.FluentValidation\CustomerFluentValidation\CustomerFluentValidation\bin\Debug\netcoreapp3.1\CustomerFluentValidation.runtimeconfig.json
+G:\1.FluentValidation\CustomerFluentValidation\CustomerFluentValidation\bin\Debug\netcoreapp3.1\CustomerFluentValidation.runtimeconfig.dev.json
+G:\1.FluentValidation\CustomerFluentValidation\CustomerFluentValidation\bin\Debug\netcoreapp3.1\CustomerFluentValidation.dll
+G:\1.FluentValidation\CustomerFluentValidation\CustomerFluentValidation\bin\Debug\netcoreapp3.1\CustomerFluentValidation.pdb
+G:\1.FluentValidation\CustomerFluentValidation\CustomerFluentValidation\bin\Debug\netcoreapp3.1\FluentValidation.dll
+G:\1.FluentValidation\CustomerFluentValidation\CustomerFluentValidation\obj\Debug\netcoreapp3.1\CustomerFluentValidation.csproj.CopyComplete
+G:\1.FluentValidation\CustomerFluentValidation\CustomerFluentValidation\obj\Debug\netcoreapp3.1\CustomerFluentValidation.dll
+G:\1.FluentValidation\CustomerFluentValidation\CustomerFluentValidation\obj\Debug\netcoreapp3.1\CustomerFluentValidation.pdb
+G:\1.FluentValidation\CustomerFluentValidation\CustomerFluentValidation\obj\Debug\netcoreapp3.1\CustomerFluentValidation.csprojAssemblyReference.cache
